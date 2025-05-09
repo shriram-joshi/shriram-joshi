@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is _**Shriram Joshi**_ and I am currently pursuing a PhD in Chemical Engineering at [Purdue University](https://engineering.purdue.edu/ChE/people/ptProfile?group_id=4266&resource_id=289184).
-My current research is interest is understanding the equilibrium and dynamics rotating fluid drops in the presence of surfactants. I have also done a few android development projects in the past as an undergraduate student.
+My current research is understanding the equilibrium and dynamics of rotating fluids in the presence of surfactants at the fluid interfaces. I have also done a few android development projects in the past as an undergraduate student.
 #### You can find me on [LinkedIn](https://in.linkedin.com/in/shriram-joshi-purdue).
 <!--
 **shriram-joshi/shriram-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
